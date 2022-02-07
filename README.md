@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 
-![Screen Shot 2022-02-06 at 9 26 24 PM](https://user-images.githubusercontent.com/91990957/152715179-28e584ee-f9f2-4253-b9a5-a0bcf49c0662.png)
+![Screen Shot 2022-02-06 at 9 50 05 PM](https://user-images.githubusercontent.com/91990957/152716958-a3eccc0a-da0c-42c9-b94c-99a7ed267186.png)
 
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 Vehicle length & Ground clearance provide the most significant amount of variance due to the output of these variables significance codes.
