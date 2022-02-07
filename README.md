@@ -35,3 +35,17 @@ Findings for the t-test results:
 ** Lot2 mean = 1500.2 
 ** Lot3 mean = 1496.14 
 There is a statistical difference between the mean of the PSI population & the mean of Lots 2&3, Lot 3 mean has the most significant difference from the population mean. Due to this difference we would reject a null-hypothesis during analysis.
+
+## Study Design: MechaCar vs Competition
+
+What metric or metrics are you going to test?
+* For a competative edge, an analytical breakdown of the MechaCar's Safety Rating can be composed of variables such as vehicle length, weight, ground clearance, maintenance & part durability.
+
+What is the null hypothesis or alternative hypothesis?
+* Null-Hypothesis would be concluding safety rating based on general probability of vehicle accidents by car type. Alternative-hypothesis would conclude safety rating based on mechanical components & componant durability, ect.
+
+What statistical test would you use to test the hypothesis? And why?
+* I believe an ANOVA statistical test would be useful to help simplify the consideration of multiple testing combinations based on categorical data. We can use a guideline of an ideal metric result across multiple tests of a large data using interchangable variables to accurately maximize MechaCar safety rating standard.   
+
+What data is needed to run the statistical test?
+* Any & all previous safety testing data pre-model launch, experimental data, safety performance records of competitors with breakdown of variable if availible. Any data showing statical improvement post-MechaCar launch or brands with similar design, ect. 
